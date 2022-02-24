@@ -1,2 +1,3 @@
 - [ch01](ch01/README.md)
 - [ch02](ch02/README.md)
+- [ch03](ch03/README.md)
