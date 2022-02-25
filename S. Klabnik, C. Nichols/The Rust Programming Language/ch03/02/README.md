@@ -2,3 +2,4 @@
 - [floating_point](floating_point/README.md)
 - [numeric_operations](numeric_operations/README.md)
 - [boolean](boolean/README.md)
+- [char](char/README.md)
