@@ -3,3 +3,4 @@
 - [numeric_operations](numeric_operations/README.md)
 - [boolean](boolean/README.md)
 - [char](char/README.md)
+- [tuples](tuples/README.md)
