@@ -1,1 +1,2 @@
 - [integers](integers/README.md)
+- [floating_point](floating_point/README.md)
