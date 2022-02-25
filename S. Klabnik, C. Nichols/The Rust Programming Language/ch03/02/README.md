@@ -4,3 +4,4 @@
 - [boolean](boolean/README.md)
 - [char](char/README.md)
 - [tuples](tuples/README.md)
+- [arrays](arrays/README.md)
