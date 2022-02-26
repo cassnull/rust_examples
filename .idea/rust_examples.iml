@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/floating_point/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/numeric_operations/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/tuples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/03/functions/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch01/03/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch02/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/01/variables/target" />
@@ -23,6 +24,7 @@
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/char/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/tuples/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/02/arrays/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/03/functions/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
