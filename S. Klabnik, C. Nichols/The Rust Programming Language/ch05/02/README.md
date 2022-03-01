@@ -1,1 +1,2 @@
 - [rectangles](rectangles/README.md)
+- [debug](debug/README.md)
