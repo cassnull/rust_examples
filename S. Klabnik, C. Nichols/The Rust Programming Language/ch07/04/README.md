@@ -1,3 +1,4 @@
 - [restaurant](restaurant/README.md)
 - [reexporting_names](reexporting_names/README.md)
 - [using_external_packages](using_external_packages/README.md)
+- [using_nested_paths](using_nested_paths/README.md)
