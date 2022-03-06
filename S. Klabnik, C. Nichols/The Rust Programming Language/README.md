@@ -5,3 +5,4 @@
 - [ch05](ch05/README.md)
 - [ch06](ch06/README.md)
 - [ch07](ch07/README.md)
+- [ch08](ch08/README.md)
