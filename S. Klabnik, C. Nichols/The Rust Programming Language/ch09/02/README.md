@@ -2,3 +2,4 @@
 - [unwrap](unwrap/README.md)
 - [expect](expect/README.md)
 - [propagating_errors](propagating_errors/README.md)
+- [error_handling_option](error_handling_option/README.md)
