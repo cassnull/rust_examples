@@ -1,1 +1,2 @@
 - [generic_data_types_in_function_definitions](generic_data_types_in_function_definitions/README.md)
+- [generic_data_types_in_struct_definitions](generic_data_types_in_struct_definitions/README.md)
