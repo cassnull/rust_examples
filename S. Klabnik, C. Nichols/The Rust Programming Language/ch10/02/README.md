@@ -1,1 +1,2 @@
 - [defining_trait](defining_trait/README.md)
+- [implementing_trait_on_type](implementing_trait_on_type/README.md)
