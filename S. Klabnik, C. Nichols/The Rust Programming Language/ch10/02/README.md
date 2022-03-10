@@ -4,3 +4,4 @@
 - [traits_as_parameters](traits_as_parameters/README.md)
 - [returning_implement_traits](returning_implement_traits/README.md)
 - [using_trait_bounds_to_conditionally_implement_methods](using_trait_bounds_to_conditionally_implement_methods/README.md)
+- [generic_types_traits](generic_types_traits/README.md)

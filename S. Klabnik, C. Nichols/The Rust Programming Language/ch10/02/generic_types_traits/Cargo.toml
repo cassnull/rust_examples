@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "generic_types_traits",
+    "aggregator"
+]
