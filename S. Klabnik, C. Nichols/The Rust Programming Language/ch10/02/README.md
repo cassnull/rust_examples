@@ -1,3 +1,4 @@
 - [defining_trait](defining_trait/README.md)
 - [implementing_trait_on_type](implementing_trait_on_type/README.md)
 - [default_implementations](default_implementations/README.md)
+- [traits_as_parameters](traits_as_parameters/README.md)
