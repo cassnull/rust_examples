@@ -1,3 +1,4 @@
 - [borrow_checker](borrow_checker/README.md)
 - [lifetime_annotations_in_function_signatures](lifetime_annotations_in_function_signatures/README.md)
 - [lifetime_annotations_in_struct_definitions](lifetime_annotations_in_struct_definitions/README.md)
+- [lifetime_annotations_in_method_definitions](lifetime_annotations_in_method_definitions/README.md)
