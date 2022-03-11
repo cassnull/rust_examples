@@ -1,1 +1,2 @@
 - [borrow_checker](borrow_checker/README.md)
+- [lifetime_annotations_in_function_signatures](lifetime_annotations_in_function_signatures/README.md)
