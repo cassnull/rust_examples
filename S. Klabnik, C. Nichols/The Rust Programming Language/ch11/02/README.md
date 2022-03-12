@@ -3,3 +3,4 @@
 - [single_test](single_test/README.md)
 - [multiple_tests](multiple_tests/README.md)
 - [ignore_a_test](ignore_a_test/README.md)
+- [running_ignored](running_ignored/README.md)

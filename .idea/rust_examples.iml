@@ -82,6 +82,7 @@
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/single_test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/multiple_tests/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/ignore_a_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/running_ignored/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch01/03/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch02/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/01/variables/target" />
@@ -160,6 +161,7 @@
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/single_test/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/multiple_tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/ignore_a_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/running_ignored/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
