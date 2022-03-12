@@ -78,6 +78,7 @@
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch10/03/generics_traits_and_lifetimes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/01/adder/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/test_threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/showing_function_output/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch01/03/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch02/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/01/variables/target" />
@@ -152,6 +153,7 @@
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch10/03/generics_traits_and_lifetimes/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/01/adder/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/test_threads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch11/02/showing_function_output/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
