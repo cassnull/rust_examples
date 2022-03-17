@@ -1,1 +1,2 @@
 - [memoization](memoization/README.md)
+- [closure_type_inference_and_annotation](closure_type_inference_and_annotation/README.md)
