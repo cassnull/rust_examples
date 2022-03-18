@@ -1,2 +1,3 @@
 - [memoization](memoization/README.md)
 - [closure_type_inference_and_annotation](closure_type_inference_and_annotation/README.md)
+- [capturing_environment_with_closures](capturing_environment_with_closures/README.md)
