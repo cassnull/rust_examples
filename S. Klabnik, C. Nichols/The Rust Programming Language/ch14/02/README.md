@@ -1,2 +1,3 @@
 - [my_crate](my_crate/README.md)
 - [art](art/README.md)
+- [guessing_game](guessing_game/README.md)
