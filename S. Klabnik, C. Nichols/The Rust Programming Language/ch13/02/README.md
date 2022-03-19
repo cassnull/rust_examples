@@ -1,1 +1,2 @@
 - [iterator_trait_and_next_method](iterator_trait_and_next_method/README.md)
+- [consuming_adaptors](consuming_adaptors/README.md)
