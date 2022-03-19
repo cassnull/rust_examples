@@ -1,0 +1,3 @@
+```console
+$ cargo doc --open
+```
