@@ -2,3 +2,4 @@
 - [consuming_adaptors](consuming_adaptors/README.md)
 - [iterator_adaptors](iterator_adaptors/README.md)
 - [using_closures_that_capture_their_environment](using_closures_that_capture_their_environment/README.md)
+- [creating_our_own_iterators_with_iterator_trait](creating_our_own_iterators_with_iterator_trait/README.md)
