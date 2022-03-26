@@ -1,1 +1,2 @@
 - [using_mpsc](using_mpsc/README.md)
+- [sending_multiple_values_and_seeing_receiver_waiting](sending_multiple_values_and_seeing_receiver_waiting/README.md)
