@@ -1,2 +1,3 @@
 - [using_mpsc](using_mpsc/README.md)
 - [sending_multiple_values_and_seeing_receiver_waiting](sending_multiple_values_and_seeing_receiver_waiting/README.md)
+- [creating_multiple_producers_by_cloning_transmitter](creating_multiple_producers_by_cloning_transmitter/README.md)
