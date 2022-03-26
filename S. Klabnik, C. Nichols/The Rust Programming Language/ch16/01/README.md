@@ -1,2 +1,3 @@
 - [creating_new_thread_with_spawn](creating_new_thread_with_spawn/README.md)
 - [using_join_handles](using_join_handles/README.md)
+- [join_too_early](join_too_early/README.md)
