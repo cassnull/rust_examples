@@ -1,1 +1,2 @@
 - [blog](blog/README.md)
+- [trade_offs_of_state_pattern](trade_offs_of_state_pattern/README.md)
