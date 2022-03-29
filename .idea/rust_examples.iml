@@ -129,6 +129,7 @@
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch16/03/using_arc/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/01/objects_contain_data_and_behavior/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/02/trait_objects/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/03/blog/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch01/03/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch02/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch03/01/variables/target" />
@@ -250,6 +251,7 @@
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch16/03/using_arc/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/01/objects_contain_data_and_behavior/target" />
       <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/02/trait_objects/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S. Klabnik, C. Nichols/The Rust Programming Language/ch17/03/blog/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
