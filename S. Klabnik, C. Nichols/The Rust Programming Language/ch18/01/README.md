@@ -1,1 +1,2 @@
 - [conditional_if_let_expressions](conditional_if_let_expressions/README.md)
+- [while_let_conditional_loops](while_let_conditional_loops/README.md)
