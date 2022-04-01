@@ -5,3 +5,4 @@
 - [destructuring_structs](destructuring_structs/README.md)
 - [destructuring_enums](destructuring_enums/README.md)
 - [destructuring_nested_structs_and_enums](destructuring_nested_structs_and_enums/README.md)
+- [destructuring_structs_and_tuples](destructuring_structs_and_tuples/README.md)
