@@ -3,3 +3,4 @@
 - [multiple_patterns](multiple_patterns/README.md)
 - [matching_ranges_of_values](matching_ranges_of_values/README.md)
 - [destructuring_structs](destructuring_structs/README.md)
+- [destructuring_enums](destructuring_enums/README.md)
