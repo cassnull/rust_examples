@@ -2,3 +2,4 @@
 - [matching_named_variables](matching_named_variables/README.md)
 - [multiple_patterns](multiple_patterns/README.md)
 - [matching_ranges_of_values](matching_ranges_of_values/README.md)
+- [destructuring_structs](destructuring_structs/README.md)
