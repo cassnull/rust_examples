@@ -6,3 +6,4 @@
 - [destructuring_enums](destructuring_enums/README.md)
 - [destructuring_nested_structs_and_enums](destructuring_nested_structs_and_enums/README.md)
 - [destructuring_structs_and_tuples](destructuring_structs_and_tuples/README.md)
+- [ignoring_entire_value](ignoring_entire_value/README.md)
