@@ -1,1 +1,2 @@
 - [type_aliases](type_aliases/README.md)
+- [never_type](never_type/README.md)
