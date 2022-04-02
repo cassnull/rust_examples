@@ -8,3 +8,4 @@
 - [destructuring_structs_and_tuples](destructuring_structs_and_tuples/README.md)
 - [ignoring_entire_value](ignoring_entire_value/README.md)
 - [ignoring_parts_of_value](ignoring_parts_of_value/README.md)
+- [ignoring_unused_variable](ignoring_unused_variable/README.md)
