@@ -9,3 +9,4 @@
 - [ignoring_entire_value](ignoring_entire_value/README.md)
 - [ignoring_parts_of_value](ignoring_parts_of_value/README.md)
 - [ignoring_unused_variable](ignoring_unused_variable/README.md)
+- [ignoring_remaining_parts](ignoring_remaining_parts/README.md)
