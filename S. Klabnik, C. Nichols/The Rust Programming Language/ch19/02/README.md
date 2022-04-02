@@ -2,3 +2,4 @@
 - [default_generic_type_parameters_and_operator_overloading](default_generic_type_parameters_and_operator_overloading/README.md)
 - [fully_qualified_syntax_for_disambiguation](fully_qualified_syntax_for_disambiguation/README.md)
 - [using_supertraits](using_supertraits/README.md)
+- [newtype_pattern](newtype_pattern/README.md)
