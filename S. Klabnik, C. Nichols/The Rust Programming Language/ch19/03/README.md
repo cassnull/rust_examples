@@ -1,2 +1,3 @@
 - [type_aliases](type_aliases/README.md)
 - [never_type](never_type/README.md)
+- [dynamically_sized_types_and_sized_trait](dynamically_sized_types_and_sized_trait/README.md)
