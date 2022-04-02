@@ -4,3 +4,4 @@
 - [using_extern_functions_call_external_code](using_extern_functions_call_external_code/README.md)
 - [calling_rust_functions_from_other_languages](calling_rust_functions_from_other_languages/README.md)
 - [accessing_or_modifying_mutable_static_variable](accessing_or_modifying_mutable_static_variable/README.md)
+- [implementing_unsafe_trait](implementing_unsafe_trait/README.md)
