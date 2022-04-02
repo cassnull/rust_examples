@@ -1,3 +1,4 @@
 - [dereferencing_raw_pointer](dereferencing_raw_pointer/README.md)
 - [calling_unsafe_function_or_method](calling_unsafe_function_or_method/README.md)
 - [creating_safe_abstraction_over_unsafe_code](creating_safe_abstraction_over_unsafe_code/README.md)
+- [using_extern_functions_call_external_code](using_extern_functions_call_external_code/README.md)
