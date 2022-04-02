@@ -2,3 +2,4 @@
 - [calling_unsafe_function_or_method](calling_unsafe_function_or_method/README.md)
 - [creating_safe_abstraction_over_unsafe_code](creating_safe_abstraction_over_unsafe_code/README.md)
 - [using_extern_functions_call_external_code](using_extern_functions_call_external_code/README.md)
+- [calling_rust_functions_from_other_languages](calling_rust_functions_from_other_languages/README.md)
