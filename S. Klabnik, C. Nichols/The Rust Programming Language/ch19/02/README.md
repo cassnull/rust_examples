@@ -1,2 +1,3 @@
 - [specifying_placeholder_types_in_trait_definitions_with_associated_types](specifying_placeholder_types_in_trait_definitions_with_associated_types/README.md)
 - [default_generic_type_parameters_and_operator_overloading](default_generic_type_parameters_and_operator_overloading/README.md)
+- [fully_qualified_syntax_for_disambiguation](fully_qualified_syntax_for_disambiguation/README.md)
