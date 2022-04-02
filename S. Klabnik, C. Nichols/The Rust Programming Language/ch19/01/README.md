@@ -5,3 +5,4 @@
 - [calling_rust_functions_from_other_languages](calling_rust_functions_from_other_languages/README.md)
 - [accessing_or_modifying_mutable_static_variable](accessing_or_modifying_mutable_static_variable/README.md)
 - [implementing_unsafe_trait](implementing_unsafe_trait/README.md)
+- [accessing_fields_of_union](accessing_fields_of_union/README.md)
