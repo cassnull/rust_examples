@@ -26,7 +26,7 @@ impl<T> LinkedList<T> {
     pub fn new(value: T) -> Self {
         let new_head = Node::new(value);
 
-        LinkedList {
+        Self {
             head: Some(new_head.clone()),
             tail: Some(new_head),
             length: 1,

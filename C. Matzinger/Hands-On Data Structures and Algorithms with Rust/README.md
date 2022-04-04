@@ -1,1 +1,2 @@
 - [linked_list](linked_list/README.md)
+- [doubly_linked_list](doubly_linked_list/README.md)
