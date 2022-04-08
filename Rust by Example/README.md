@@ -1,2 +1,3 @@
 - [Hello World](Hello%20World/README.md)
+- [Primitives](Primitives/README.md)
 - [Crates](Crates/chardet/README.md)
