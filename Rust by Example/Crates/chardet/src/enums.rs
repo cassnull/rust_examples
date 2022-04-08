@@ -31,6 +31,7 @@ pub enum ProbingState {
 
 /// Это перечисление представляет различные состояния, в которых может находиться машина состояний.
 pub enum MachineState {
+    None,
     Start,
     Error,
     ItsMe,
