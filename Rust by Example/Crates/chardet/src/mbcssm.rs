@@ -3,7 +3,7 @@ use super::enums;
 pub const BIG5_CLS_SIZE: usize = 256;
 
 #[rustfmt::skip]
-pub const BIG5_CLS: [i32; BIG5_CLS_SIZE] = [
+pub const BIG5_CLS: [usize; BIG5_CLS_SIZE] = [
     1, 1, 1, 1, 1, 1, 1, 1, // 00 - 07    // разрешить 0x00 в качестве законного значения
     1, 1, 1, 1, 1, 1, 0, 0, // 08 - 0f
     1, 1, 1, 1, 1, 1, 1, 1, // 10 - 17
@@ -52,7 +52,27 @@ pub const BIG5_ST: [enums::MachineState; BIG5_ST_SIZE] = [
 
 pub const BIG5_CHAR_LEN_TABLE_SIZE: usize = 5;
 
-pub const BIG5_CHAR_LEN_TABLE: [i32; BIG5_CHAR_LEN_TABLE_SIZE] = [0, 1, 1, 2, 0];
+pub const BIG5_CHAR_LEN_TABLE: [usize; BIG5_CHAR_LEN_TABLE_SIZE] = [0, 1, 1, 2, 0];
+
+pub struct Big5SmModel {
+    pub class_table: [usize; BIG5_CLS_SIZE],
+    pub class_factor: usize,
+    pub state_table: [enums::MachineState; BIG5_ST_SIZE],
+    pub char_len_table: [usize; BIG5_CHAR_LEN_TABLE_SIZE],
+    pub name: String,
+}
+
+impl Default for Big5SmModel {
+    fn default() -> Self {
+        Self {
+            class_table: BIG5_CLS,
+            class_factor: 5,
+            state_table: BIG5_ST,
+            char_len_table: BIG5_CHAR_LEN_TABLE,
+            name: "Big5".into(),
+        }
+    }
+}
 
 #[cfg(test)]
 mod tests {

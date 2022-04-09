@@ -1,4 +1,7 @@
 pub mod big5freq;
+pub mod big5prober;
+pub mod chardistribution;
+pub mod codingstatemachine;
 pub mod enums;
 pub mod euckrfreq;
 pub mod euctwfreq;

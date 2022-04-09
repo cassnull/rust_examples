@@ -30,11 +30,18 @@ pub enum ProbingState {
 }
 
 /// Это перечисление представляет различные состояния, в которых может находиться машина состояний.
+#[derive(PartialEq, Copy, Clone)]
 pub enum MachineState {
-    None,
-    Start,
-    Error,
-    ItsMe,
+    None = 3,
+    Start = 0,
+    Error = 1,
+    ItsMe = 2,
+}
+
+impl Default for MachineState {
+    fn default() -> Self {
+        MachineState::None
+    }
 }
 
 /// Это перечисление представляет вероятность того, что символ следует за предыдущим.
