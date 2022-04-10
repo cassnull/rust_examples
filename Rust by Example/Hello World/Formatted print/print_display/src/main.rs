@@ -55,7 +55,7 @@ struct Complex {
 impl fmt::Display for Complex {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         let sign = if self.imag < 0.0 { "-" } else { "+" };
-        write!(f, "{} {} {}i", self.real, sign, self.imag)
+        write!(f, "{} {} {}i", self.real, sign, self.imag.abs())
     }
 }
 
