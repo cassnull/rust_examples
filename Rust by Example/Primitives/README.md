@@ -1,3 +1,4 @@
 - [primitives](primitives/README.md)
 - [literals_and_operators](literals_and_operators/README.md)
 - [tuples](tuples/README.md)
+- [arrays_and_slices](arrays_and_slices/README.md)
