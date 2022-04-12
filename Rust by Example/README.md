@@ -1,3 +1,4 @@
 - [Hello World](Hello%20World/README.md)
 - [Primitives](Primitives/README.md)
 - [Crates](Crates/README.md)
+- [Custom Types](Custom%20Types/README.md)
