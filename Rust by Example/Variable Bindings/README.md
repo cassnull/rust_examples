@@ -1,3 +1,4 @@
 - [variable_bindings](variable_bindings/README.md)
 - [mutability](mutability/README.md)
 - [declare_first](declare_first/README.md)
+- [freezing](freezing/README.md)
