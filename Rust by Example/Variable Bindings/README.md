@@ -2,3 +2,4 @@
 - [mutability](mutability/README.md)
 - [declare_first](declare_first/README.md)
 - [freezing](freezing/README.md)
+- [scope](scope/README.md)
