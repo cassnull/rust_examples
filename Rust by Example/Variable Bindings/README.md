@@ -3,3 +3,4 @@
 - [declare_first](declare_first/README.md)
 - [freezing](freezing/README.md)
 - [scope](scope/README.md)
+- [shadowing](shadowing/README.md)
