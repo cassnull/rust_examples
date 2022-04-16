@@ -1,3 +1,4 @@
 - [casting](casting/README.md)
 - [literals](literals/README.md)
 - [inference](inference/README.md)
+- [aliasing](aliasing/README.md)
