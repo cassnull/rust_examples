@@ -3,3 +3,4 @@
 - [Crates](Crates/README.md)
 - [Custom Types](Custom%20Types/README.md)
 - [Variable Bindings](Variable%20Bindings/README.md)
+- [Types](Types/README.md)
