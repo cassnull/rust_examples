@@ -3,3 +3,4 @@
 - [try_from](try_from/README.md)
 - [try_into](try_into/README.md)
 - [converting_to_string](converting_to_string/README.md)
+- [parsing_string](parsing_string/README.md)
