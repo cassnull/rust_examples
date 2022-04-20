@@ -4,3 +4,4 @@
 - [returning_from_loops](returning_from_loops/README.md)
 - [while_keyword](while_keyword/README.md)
 - [for_and_range](for_and_range/README.md)
+- [for_and_iterators](for_and_iterators/README.md)
