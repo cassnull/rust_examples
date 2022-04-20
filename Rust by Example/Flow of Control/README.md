@@ -2,3 +2,4 @@
 - [loop_keyword](loop_keyword/README.md)
 - [nesting_and_labels](nesting_and_labels/README.md)
 - [returning_from_loops](returning_from_loops/README.md)
+- [while_keyword](while_keyword/README.md)
