@@ -1,2 +1,3 @@
 - [functions](functions/README.md)
 - [associated_functions](associated_functions/README.md)
+- [methods](methods/README.md)
