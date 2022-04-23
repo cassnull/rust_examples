@@ -7,3 +7,4 @@
 - [for_and_iterators](for_and_iterators/README.md)
 - [match_keyword](match_keyword/README.md)
 - [destructuring_tuples](destructuring_tuples/README.md)
+- [destructuring_arrays_and_slices](destructuring_arrays_and_slices/README.md)
