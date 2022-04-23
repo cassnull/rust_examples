@@ -8,3 +8,4 @@
 - [match_keyword](match_keyword/README.md)
 - [destructuring_tuples](destructuring_tuples/README.md)
 - [destructuring_arrays_and_slices](destructuring_arrays_and_slices/README.md)
+- [destructuring_enums](destructuring_enums/README.md)
