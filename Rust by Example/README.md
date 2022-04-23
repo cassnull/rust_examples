@@ -7,3 +7,4 @@
 - [Conversion](Conversion/README.md)
 - [Expressions](Expressions/README.md)
 - [Flow of Control](Flow%20of%20Control/README.md)
+- [Functions](Functions/README.md)
