@@ -2,3 +2,4 @@
 - [associated_functions](associated_functions/README.md)
 - [methods](methods/README.md)
 - [closures](closures/README.md)
+- [Closure](Closure/README.md)
