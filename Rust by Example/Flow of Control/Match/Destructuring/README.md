@@ -1,0 +1,5 @@
+- [destructuring_tuples](destructuring_tuples/README.md)
+- [destructuring_arrays_and_slices](destructuring_arrays_and_slices/README.md)
+- [destructuring_enums](destructuring_enums/README.md)
+- [destructuring_pointers](destructuring_pointers/README.md)
+- [destructuring_structures](destructuring_structures/README.md)
