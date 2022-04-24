@@ -2,3 +2,4 @@
 - [as_input_parameters](as_input_parameters/README.md)
 - [type_anonymity](type_anonymity/README.md)
 - [input_functions](input_functions/README.md)
+- [as_output_parameters](as_output_parameters/README.md)
