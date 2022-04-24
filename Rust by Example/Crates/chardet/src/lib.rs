@@ -8,4 +8,5 @@ pub mod euctwfreq;
 pub mod gb2312freq;
 pub mod jisfreq;
 pub mod johabfreq;
+pub mod jpcntx;
 pub mod mbcssm;
