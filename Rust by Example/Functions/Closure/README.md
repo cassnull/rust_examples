@@ -3,3 +3,4 @@
 - [type_anonymity](type_anonymity/README.md)
 - [input_functions](input_functions/README.md)
 - [as_output_parameters](as_output_parameters/README.md)
+- [Examples in std](Examples%20in%20std/README.md)
