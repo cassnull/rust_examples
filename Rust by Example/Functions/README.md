@@ -4,3 +4,4 @@
 - [closures](closures/README.md)
 - [Closure](Closure/README.md)
 - [higher_order_functions](higher_order_functions/README.md)
+- [diverging_functions](diverging_functions/README.md)
