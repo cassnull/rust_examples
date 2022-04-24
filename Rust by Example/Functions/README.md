@@ -3,3 +3,4 @@
 - [methods](methods/README.md)
 - [closures](closures/README.md)
 - [Closure](Closure/README.md)
+- [higher_order_functions](higher_order_functions/README.md)
