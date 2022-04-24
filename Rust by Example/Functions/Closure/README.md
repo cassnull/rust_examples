@@ -1,3 +1,4 @@
 - [capturing](capturing/README.md)
 - [as_input_parameters](as_input_parameters/README.md)
 - [type_anonymity](type_anonymity/README.md)
+- [input_functions](input_functions/README.md)
