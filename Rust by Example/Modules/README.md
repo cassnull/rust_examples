@@ -1,1 +1,2 @@
 - [visibility](visibility/README.md)
+- [struct_visibility](struct_visibility/README.md)
