@@ -2,3 +2,4 @@
 - [struct_visibility](struct_visibility/README.md)
 - [use_declaration](use_declaration/README.md)
 - [super_and_self](super_and_self/README.md)
+- [file_hierarchy](file_hierarchy/README.md)
