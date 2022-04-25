@@ -1,3 +1,4 @@
 - [visibility](visibility/README.md)
 - [struct_visibility](struct_visibility/README.md)
 - [use_declaration](use_declaration/README.md)
+- [super_and_self](super_and_self/README.md)
