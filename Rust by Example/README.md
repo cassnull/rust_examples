@@ -9,3 +9,5 @@
 - [Flow of Control](Flow%20of%20Control/README.md)
 - [Functions](Functions/README.md)
 - [Modules](Modules/README.md)
+- [Cargo](Cargo/README.md)
+- [Attributes](Attributes/README.md)
