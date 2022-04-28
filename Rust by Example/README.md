@@ -11,3 +11,4 @@
 - [Modules](Modules/README.md)
 - [Cargo](Cargo/README.md)
 - [Attributes](Attributes/README.md)
+- [Generics](Generics/README.md)
