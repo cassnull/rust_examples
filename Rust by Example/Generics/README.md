@@ -1,3 +1,4 @@
 - [generics](generics/README.md)
 - [implementation](implementation/README.md)
 - [traits](traits/README.md)
+- [bounds](bounds/README.md)
