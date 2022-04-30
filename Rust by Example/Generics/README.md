@@ -6,3 +6,4 @@
 - [multiple_bounds](multiple_bounds/README.md)
 - [where_clauses](where_clauses/README.md)
 - [new_type_idiom](new_type_idiom/README.md)
+- [Associated items](Associated%20items/README.md)
