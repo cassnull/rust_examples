@@ -1,1 +1,2 @@
 - [mutability](mutability/README.md)
+- [partial_moves](partial_moves/README.md)
