@@ -2,3 +2,4 @@
 - [destructor](destructor/README.md)
 - [ownership_and_moves](ownership_and_moves/README.md)
 - [Ownership and moves](Ownership%20and%20moves/README.md)
+- [borrowing](borrowing/README.md)
