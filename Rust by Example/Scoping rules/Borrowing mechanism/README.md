@@ -1,2 +1,3 @@
 - [mutability](mutability/README.md)
 - [aliasing](aliasing/README.md)
+- [ref_pattern](ref_pattern/README.md)
