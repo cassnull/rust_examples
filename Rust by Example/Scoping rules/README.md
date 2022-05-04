@@ -4,3 +4,4 @@
 - [Ownership and moves](Ownership%20and%20moves/README.md)
 - [borrowing](borrowing/README.md)
 - [Borrowing mechanism](Borrowing%20mechanism/README.md)
+- [lifetime](lifetime/README.md)
