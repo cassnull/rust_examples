@@ -5,3 +5,4 @@
 - [borrowing](borrowing/README.md)
 - [Borrowing mechanism](Borrowing%20mechanism/README.md)
 - [lifetime](lifetime/README.md)
+- [Lifetimes](Lifetimes/README.md)
