@@ -2,3 +2,4 @@
 - [functions](functions/README.md)
 - [methods](methods/README.md)
 - [structs](structs/README.md)
+- [traits](traits/README.md)
