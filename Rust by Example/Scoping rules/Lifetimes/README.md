@@ -3,3 +3,4 @@
 - [methods](methods/README.md)
 - [structs](structs/README.md)
 - [traits](traits/README.md)
+- [bounds](bounds/README.md)
