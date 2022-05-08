@@ -8,3 +8,4 @@
 - [static_lifetime](static_lifetime/README.md)
 - [reference_lifetime_static](reference_lifetime_static/README.md)
 - [trait_bound_static](trait_bound_static/README.md)
+- [elision](elision/README.md)
