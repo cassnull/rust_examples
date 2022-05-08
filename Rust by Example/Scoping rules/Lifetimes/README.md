@@ -4,3 +4,4 @@
 - [structs](structs/README.md)
 - [traits](traits/README.md)
 - [bounds](bounds/README.md)
+- [coercion](coercion/README.md)
