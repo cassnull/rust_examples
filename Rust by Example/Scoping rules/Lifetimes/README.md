@@ -5,3 +5,4 @@
 - [traits](traits/README.md)
 - [bounds](bounds/README.md)
 - [coercion](coercion/README.md)
+- [static_lifetime](static_lifetime/README.md)
