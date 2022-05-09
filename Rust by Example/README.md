@@ -13,3 +13,4 @@
 - [Attributes](Attributes/README.md)
 - [Generics](Generics/README.md)
 - [Scoping rules](Scoping%20rules/README.md)
+- [Traits](Traits/README.md)
