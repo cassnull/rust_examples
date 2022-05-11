@@ -5,3 +5,4 @@
 - [drop](drop/README.md)
 - [iterators](iterators/README.md)
 - [impl_trait_as_argument_type](impl_trait_as_argument_type/README.md)
+- [impl_trait_as_return_type](impl_trait_as_return_type/README.md)
