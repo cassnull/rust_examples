@@ -8,3 +8,4 @@
 - [impl_trait_as_return_type](impl_trait_as_return_type/README.md)
 - [clone](clone/README.md)
 - [supertraits](supertraits/README.md)
+- [disambiguating_overlapping_traits](disambiguating_overlapping_traits/README.md)
