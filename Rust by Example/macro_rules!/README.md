@@ -2,3 +2,4 @@
 - [Syntax](Syntax/README.md)
 - [dry](dry/README.md)
 - [dsl](dsl/README.md)
+- [variadic_interfaces](variadic_interfaces/README.md)
