@@ -1,2 +1,3 @@
 - [macros](macros/README.md)
 - [Syntax](Syntax/README.md)
+- [dry](dry/README.md)
