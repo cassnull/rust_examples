@@ -2,3 +2,4 @@
 - [option_unwrap](option_unwrap/README.md)
 - [Option & unwrap](Option%20&%20unwrap/README.md)
 - [result_keyword](result_keyword/README.md)
+- [Result](Result/README.md)
