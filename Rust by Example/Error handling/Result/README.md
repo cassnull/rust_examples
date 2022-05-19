@@ -1,2 +1,3 @@
 - [map_for_result](map_for_result/README.md)
 - [aliases_for_result](aliases_for_result/README.md)
+- [early_returns](early_returns/README.md)
