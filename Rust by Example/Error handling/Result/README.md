@@ -1,3 +1,5 @@
 - [map_for_result](map_for_result/README.md)
 - [aliases_for_result](aliases_for_result/README.md)
 - [early_returns](early_returns/README.md)
+- [introducing_question_mark_operator](introducing_question_mark_operator/README.md)
+- [try_macro](try_macro/README.md)
