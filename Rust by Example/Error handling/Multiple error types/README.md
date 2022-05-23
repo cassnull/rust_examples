@@ -1,1 +1,2 @@
 - [pulling_results_out_of_options](pulling_results_out_of_options/README.md)
+- [defining_error_type](defining_error_type/README.md)
