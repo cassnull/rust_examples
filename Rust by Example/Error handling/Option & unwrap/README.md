@@ -1,1 +1,2 @@
 - [unpacking_options_with_error_propagation](unpacking_options_with_error_propagation/README.md)
+- [combinators_map](combinators_map/README.md)
