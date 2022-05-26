@@ -4,3 +4,4 @@
 - [result_keyword](result_keyword/README.md)
 - [Result](Result/README.md)
 - [multiple_error_types](multiple_error_types/README.md)
+- [Multiple error types](Multiple%20error%20types/README.md)
