@@ -2,3 +2,4 @@
 - [defining_error_type](defining_error_type/README.md)
 - [boxing_errors](boxing_errors/README.md)
 - [other_uses_of_question_mark_operator](other_uses_of_question_mark_operator/README.md)
+- [wrapping_errors](wrapping_errors/README.md)
