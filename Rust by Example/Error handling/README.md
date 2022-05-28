@@ -5,3 +5,4 @@
 - [Result](Result/README.md)
 - [multiple_error_types](multiple_error_types/README.md)
 - [Multiple error types](Multiple%20error%20types/README.md)
+- [Iterating over Results](Iterating%20over%20Results/README.md)
