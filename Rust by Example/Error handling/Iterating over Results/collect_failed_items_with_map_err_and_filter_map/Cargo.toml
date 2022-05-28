@@ -1,0 +1,8 @@
+[package]
+name = "collect_failed_items_with_map_err_and_filter_map"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
