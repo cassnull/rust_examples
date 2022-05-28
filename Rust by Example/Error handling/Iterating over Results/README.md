@@ -1,1 +1,2 @@
 - [iterating_over_results](iterating_over_results/README.md)
+- [ignore_failed_items_with_filter_map](ignore_failed_items_with_filter_map/README.md)
