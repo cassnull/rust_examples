@@ -2,3 +2,4 @@
 - [ignore_failed_items_with_filter_map](ignore_failed_items_with_filter_map/README.md)
 - [collect_failed_items_with_map_err_and_filter_map](collect_failed_items_with_map_err_and_filter_map/README.md)
 - [fail_entire_operation_with_collect](fail_entire_operation_with_collect/README.md)
+- [collect_all_valid_values_and_failures_with_partition](collect_all_valid_values_and_failures_with_partition/README.md)
