@@ -16,3 +16,4 @@
 - [Traits](Traits/README.md)
 - [macro_rules!](macro_rules!/README.md)
 - [Error handling](Error%20handling/README.md)
+- [Std library types](Std%20library%20types/README.md)
