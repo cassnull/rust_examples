@@ -5,3 +5,4 @@
 - [option](option/README.md)
 - [result_keyword](result_keyword/README.md)
 - [Result](Result/README.md)
+- [panic_macro](panic_macro/README.md)
