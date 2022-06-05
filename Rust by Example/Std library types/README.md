@@ -6,3 +6,4 @@
 - [result_keyword](result_keyword/README.md)
 - [Result](Result/README.md)
 - [panic_macro](panic_macro/README.md)
+- [hash_map](hash_map/README.md)
