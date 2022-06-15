@@ -9,3 +9,4 @@
 - [hash_map](hash_map/README.md)
 - [HashMap](HashMap/README.md)
 - [rc](rc/README.md)
+- [arc](arc/README.md)
