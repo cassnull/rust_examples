@@ -19,3 +19,4 @@
 - [Std library types](Std%20library%20types/README.md)
 - [Std misc](Std%20misc/README.md)
 - [Testing](Testing/README.md)
+- [Unsafe Operations](Unsafe%20Operations/README.md)
