@@ -1,1 +1,2 @@
 - [two_sum](two_sum/README.md)
+- [palindrome_number](palindrome_number/README.md)
