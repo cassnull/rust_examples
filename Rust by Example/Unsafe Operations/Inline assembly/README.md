@@ -3,3 +3,4 @@
 - [late_output_operands](late_output_operands/README.md)
 - [explicit_register_operands](explicit_register_operands/README.md)
 - [clobbered_registers](clobbered_registers/README.md)
+- [symbol_operands_and_abi_clobbers](symbol_operands_and_abi_clobbers/README.md)
