@@ -4,3 +4,4 @@
 - [explicit_register_operands](explicit_register_operands/README.md)
 - [clobbered_registers](clobbered_registers/README.md)
 - [symbol_operands_and_abi_clobbers](symbol_operands_and_abi_clobbers/README.md)
+- [register_template_modifiers](register_template_modifiers/README.md)
