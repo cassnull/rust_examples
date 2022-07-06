@@ -6,3 +6,4 @@
 - [symbol_operands_and_abi_clobbers](symbol_operands_and_abi_clobbers/README.md)
 - [register_template_modifiers](register_template_modifiers/README.md)
 - [memory_address_operands](memory_address_operands/README.md)
+- [labels](labels/README.md)
