@@ -7,3 +7,4 @@
 - [register_template_modifiers](register_template_modifiers/README.md)
 - [memory_address_operands](memory_address_operands/README.md)
 - [labels](labels/README.md)
+- [options](options/README.md)
