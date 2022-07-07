@@ -20,3 +20,4 @@
 - [Std misc](Std%20misc/README.md)
 - [Testing](Testing/README.md)
 - [Unsafe Operations](Unsafe%20Operations/README.md)
+- [Compatibility](Compatibility/README.md)
