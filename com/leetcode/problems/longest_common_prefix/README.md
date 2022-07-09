@@ -6,13 +6,15 @@ If there is no common prefix, return an empty string `""`.
 
 **Example 1:**
 
-<pre><strong>Input:</strong> strs = ["flower","flow","flight"]
+<pre>
+<strong>Input:</strong> strs = ["flower","flow","flight"]
 <strong>Output:</strong> "fl"
 </pre>
 
 **Example 2:**
 
-<pre><strong>Input:</strong> strs = ["dog","racecar","car"]
+<pre>
+<strong>Input:</strong> strs = ["dog","racecar","car"]
 <strong>Output:</strong> ""
 <strong>Explanation:</strong> There is no common prefix among the input strings.
 </pre>

@@ -2,3 +2,4 @@
 - [palindrome_number](palindrome_number/README.md)
 - [roman_to_integer](roman_to_integer/README.md)
 - [longest_common_prefix](longest_common_prefix/README.md)
+- [valid_parentheses](valid_parentheses/README.md)

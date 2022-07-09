@@ -25,21 +25,24 @@ Given a roman numeral, convert it to an integer.
 
 **Example 1:**
 
-<pre><strong>Input:</strong> s = "III"
+<pre>
+<strong>Input:</strong> s = "III"
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> III = 3.
 </pre>
 
 **Example 2:**
 
-<pre><strong>Input:</strong> s = "LVIII"
+<pre>
+<strong>Input:</strong> s = "LVIII"
 <strong>Output:</strong> 58
 <strong>Explanation:</strong> L = 50, V= 5, III = 3.
 </pre>
 
 **Example 3:**
 
-<pre><strong>Input:</strong> s = "MCMXCIV"
+<pre>
+<strong>Input:</strong> s = "MCMXCIV"
 <strong>Output:</strong> 1994
 <strong>Explanation:</strong> M = 1000, CM = 900, XC = 90 and IV = 4.
 </pre>
