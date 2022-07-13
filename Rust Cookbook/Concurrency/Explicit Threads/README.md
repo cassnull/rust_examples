@@ -1,2 +1,3 @@
 - [spawn_short_lived_thread](spawn_short_lived_thread/README.md)
 - [create_parallel_pipeline](create_parallel_pipeline/README.md)
+- [pass_data_between_two_threads](pass_data_between_two_threads/README.md)
