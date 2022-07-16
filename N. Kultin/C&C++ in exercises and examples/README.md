@@ -1,1 +1,2 @@
 - [exercise_1](exercise_1/README.md)
+- [exercise_2](exercise_2/README.md)
