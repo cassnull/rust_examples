@@ -8,3 +8,4 @@
 - [Games](Games/README.md)
 - [Utils](Utils/README.md)
 - [T. McNamara](T.%20McNamara/README.md)
+- [Rustacean Team](Rustacean%20Team/README.md)
