@@ -2,3 +2,4 @@
 - [exercise_2](exercise_2/README.md)
 - [exercise_3](exercise_3/README.md)
 - [exercise_4](exercise_4/README.md)
+- [exercise_5](exercise_5/README.md)
