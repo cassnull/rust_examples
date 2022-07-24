@@ -5,3 +5,4 @@
 - [exercise_5](exercise_5/README.md)
 - [exercise_6](exercise_6/README.md)
 - [exercise_7](exercise_7/README.md)
+- [exercise_8](exercise_8/README.md)
