@@ -7,3 +7,4 @@
 - [exercise_7](exercise_7/README.md)
 - [exercise_8](exercise_8/README.md)
 - [exercise_9](exercise_9/README.md)
+- [exercise_10](exercise_10/README.md)
