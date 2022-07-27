@@ -1,2 +1,3 @@
 - [sort_vector_of_integers](sort_vector_of_integers/README.md)
 - [sort_vector_of_floats](sort_vector_of_floats/README.md)
+- [sort_vector_of_structs](sort_vector_of_structs/README.md)
