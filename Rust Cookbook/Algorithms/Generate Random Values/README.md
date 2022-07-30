@@ -3,3 +3,4 @@
 - [generate_random_numbers_with_given_distribution](generate_random_numbers_with_given_distribution/README.md)
 - [generate_random_values_of_custom_type](generate_random_values_of_custom_type/README.md)
 - [create_random_passwords_from_set_alphanumeric_characters](create_random_passwords_from_set_alphanumeric_characters/README.md)
+- [create_random_passwords_from_set_of_user_defined_characters](create_random_passwords_from_set_of_user_defined_characters/README.md)
