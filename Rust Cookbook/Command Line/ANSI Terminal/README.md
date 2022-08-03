@@ -1,2 +1,3 @@
 - [printing_colored_text_to_terminal](printing_colored_text_to_terminal/README.md)
 - [bold_text_in_terminal](bold_text_in_terminal/README.md)
+- [bold_and_colored_text_in_terminal](bold_and_colored_text_in_terminal/README.md)
