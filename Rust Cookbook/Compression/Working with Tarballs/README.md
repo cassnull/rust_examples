@@ -1,1 +1,2 @@
 - [decompress_tarball](decompress_tarball/README.md)
+- [compress_directory_into_tarball](compress_directory_into_tarball/README.md)
