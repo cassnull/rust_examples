@@ -2,3 +2,4 @@
 - [create_parallel_pipeline](create_parallel_pipeline/README.md)
 - [pass_data_between_two_threads](pass_data_between_two_threads/README.md)
 - [maintain_global_mutable_state](maintain_global_mutable_state/README.md)
+- [calculate_sha256_sum_of_iso_files_concurrently](calculate_sha256_sum_of_iso_files_concurrently/README.md)
