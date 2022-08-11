@@ -1,1 +1,2 @@
 - [mutate_elements_of_array_in_parallel](mutate_elements_of_array_in_parallel/README.md)
+- [test_in_parallel_if_any_or_all_elements_of_collection_match_given_predicate](test_in_parallel_if_any_or_all_elements_of_collection_match_given_predicate/README.md)
