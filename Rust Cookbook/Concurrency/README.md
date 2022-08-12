@@ -1,2 +1,2 @@
 - [Explicit Threads](Explicit%20Threads/README.md)
-- [Parallel Tasks](Parallel%20Tasks/README.md)
+- [Data Parallelism](Data%20Parallelism/README.md)
