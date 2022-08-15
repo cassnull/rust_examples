@@ -3,3 +3,4 @@
 - [search_items_using_given_predicate_in_parallel](search_items_using_given_predicate_in_parallel/README.md)
 - [sort_vector_in_parallel](sort_vector_in_parallel/README.md)
 - [map_reduce_in_parallel](map_reduce_in_parallel/README.md)
+- [generate_jpg_thumbnails_in_parallel](generate_jpg_thumbnails_in_parallel/README.md)

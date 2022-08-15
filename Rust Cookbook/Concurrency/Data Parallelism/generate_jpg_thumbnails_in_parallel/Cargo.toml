@@ -1,0 +1,12 @@
+[package]
+name = "generate_jpg_thumbnails_in_parallel"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = "1.5.3"
+glob = "0.3.0"
+image = "0.24.3"
+error-chain = "0.12.4"
