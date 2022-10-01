@@ -1,2 +1,3 @@
 - [bubble](bubble/README.md)
 - [shaker](shaker/README.md)
+- [insertion](insertion/README.md)
