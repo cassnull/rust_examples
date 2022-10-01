@@ -4,3 +4,4 @@
 - [Rust Cookbook](Rust%20Cookbook/README.md)
 - [com](com/README.md)
 - [N. Kultin](N.%20Kultin/README.md)
+- [Algorithm](Algorithm/README.md)
