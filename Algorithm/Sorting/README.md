@@ -2,3 +2,4 @@
 - [shaker](shaker/README.md)
 - [insertion](insertion/README.md)
 - [stooge](stooge/README.md)
+- [pancake](pancake/README.md)
