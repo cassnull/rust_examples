@@ -3,3 +3,4 @@
 - [insertion](insertion/README.md)
 - [stooge](stooge/README.md)
 - [pancake](pancake/README.md)
+- [shell](shell/README.md)
