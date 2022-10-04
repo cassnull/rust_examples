@@ -4,3 +4,4 @@
 - [stooge](stooge/README.md)
 - [pancake](pancake/README.md)
 - [shell](shell/README.md)
+- [merge](merge/README.md)
