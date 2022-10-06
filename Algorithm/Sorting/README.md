@@ -6,3 +6,4 @@
 - [shell](shell/README.md)
 - [merge](merge/README.md)
 - [selection](selection/README.md)
+- [quick](quick/README.md)
