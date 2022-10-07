@@ -7,3 +7,4 @@
 - [merge](merge/README.md)
 - [selection](selection/README.md)
 - [quick](quick/README.md)
+- [gnome](gnome/README.md)
