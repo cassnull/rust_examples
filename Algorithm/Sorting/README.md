@@ -9,3 +9,4 @@
 - [quick](quick/README.md)
 - [gnome](gnome/README.md)
 - [tree](tree/README.md)
+- [comb](comb/README.md)
