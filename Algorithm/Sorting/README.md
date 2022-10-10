@@ -10,3 +10,4 @@
 - [gnome](gnome/README.md)
 - [tree](tree/README.md)
 - [comb](comb/README.md)
+- [counting](counting/README.md)
