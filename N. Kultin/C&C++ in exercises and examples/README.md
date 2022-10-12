@@ -9,3 +9,4 @@
 - [exercise_9](exercise_9/README.md)
 - [exercise_10](exercise_10/README.md)
 - [exercise_11](exercise_11/README.md)
+- [exercise_12](exercise_12/README.md)
