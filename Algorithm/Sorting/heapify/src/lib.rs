@@ -1,4 +1,4 @@
-pub fn heapify_sort<T: Ord + ToString + Copy>(array: &mut [T]) {
+pub fn heapify_sort<T: Ord>(array: &mut [T]) {
     for i in (0..array.len() / 2).rev() {
         sort(array, array.len(), i);
     }
@@ -9,7 +9,7 @@ pub fn heapify_sort<T: Ord + ToString + Copy>(array: &mut [T]) {
     }
 }
 
-fn sort<T: Ord + ToString + Copy>(array: &mut [T], n: usize, i: usize) {
+fn sort<T: Ord>(array: &mut [T], n: usize, i: usize) {
     let mut largest = i;
     let left = 2 * i + 1;
     let right = 2 * i + 2;
