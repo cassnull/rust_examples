@@ -14,3 +14,4 @@
 - [combined_bubble](combined_bubble/README.md)
 - [heapify](heapify/README.md)
 - [cocktail](cocktail/README.md)
+- [odd_even](odd_even/README.md)
