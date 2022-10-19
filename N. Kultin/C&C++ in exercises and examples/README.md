@@ -13,3 +13,4 @@
 - [exercise_13](exercise_13/README.md)
 - [exercise_14](exercise_14/README.md)
 - [exercise_15](exercise_15/README.md)
+- [exercise_16](exercise_16/README.md)
