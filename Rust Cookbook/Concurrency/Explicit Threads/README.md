@@ -3,3 +3,4 @@
 - [pass_data_between_two_threads](pass_data_between_two_threads/README.md)
 - [maintain_global_mutable_state](maintain_global_mutable_state/README.md)
 - [calculate_sha256_sum_of_iso_files_concurrently](calculate_sha256_sum_of_iso_files_concurrently/README.md)
+- [draw_fractal_dispatching_work_to_thread_pool](draw_fractal_dispatching_work_to_thread_pool/README.md)
