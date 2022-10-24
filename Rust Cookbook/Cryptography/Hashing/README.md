@@ -1,1 +1,2 @@
 - [calculate_sha256_digest_of_file](calculate_sha256_digest_of_file/README.md)
+- [sign_and_verify_message_with_hmac_digest](sign_and_verify_message_with_hmac_digest/README.md)
