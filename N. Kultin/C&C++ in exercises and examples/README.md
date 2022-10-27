@@ -19,3 +19,4 @@
 - [exercise_19](exercise_19/README.md)
 - [exercise_20](exercise_20/README.md)
 - [exercise_21](exercise_21/README.md)
+- [exercise_22](exercise_22/README.md)
