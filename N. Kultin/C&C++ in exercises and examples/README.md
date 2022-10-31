@@ -23,3 +23,4 @@
 - [exercise_23](exercise_23/README.md)
 - [exercise_24](exercise_24/README.md)
 - [exercise_25](exercise_25/README.md)
+- [exercise_26](exercise_26/README.md)
