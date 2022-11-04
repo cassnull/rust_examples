@@ -1,2 +1,3 @@
 - [sha1_cracker](sha1_cracker/README.md)
 - [true](command_true/README.md)
+- [false](command_false/README.md)
