@@ -2,3 +2,4 @@
 - [true](cli_true/README.md)
 - [false](cli_false/README.md)
 - [echo](cli_echo/README.md)
+- [cat](cli_cat/README.md)
