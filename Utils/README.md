@@ -4,3 +4,4 @@
 - [echo](cli_echo/README.md)
 - [cat](cli_cat/README.md)
 - [head](cli_head/README.md)
+- [wc](cli_wc/README.md)
