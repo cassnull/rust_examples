@@ -5,3 +5,4 @@
 - [cat](cli_cat/README.md)
 - [head](cli_head/README.md)
 - [wc](cli_wc/README.md)
+- [uniq](cli_uniq/README.md)
