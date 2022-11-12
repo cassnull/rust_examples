@@ -29,3 +29,4 @@
 - [exercise_29](exercise_29/README.md)
 - [exercise_30](exercise_30/README.md)
 - [exercise_31](exercise_31/README.md)
+- [exercise_32](exercise_32/README.md)
