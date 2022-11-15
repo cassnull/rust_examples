@@ -1,1 +1,2 @@
 - [Hashing](Hashing/README.md)
+- [Encryption](Encryption/README.md)
