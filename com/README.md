@@ -1,1 +1,2 @@
 - [leetcode](leetcode/README.md)
+- [exercism](exercism/README.md)
