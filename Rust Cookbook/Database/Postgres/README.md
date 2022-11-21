@@ -1,2 +1,3 @@
 - [create_tables_in_postgres_database](create_tables_in_postgres_database/README.md)
 - [insert_and_query_data](insert_and_query_data/README.md)
+- [aggregate_data](aggregate_data/README.md)
