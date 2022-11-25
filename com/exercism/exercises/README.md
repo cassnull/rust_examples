@@ -1,3 +1,4 @@
 - [hello_world](hello_world/README.md)
 - [lucians_luscious_lasagna](lucians_luscious_lasagna/README.md)
 - [assembly_line](assembly_line/README.md)
+- [semi_structured_logs](semi_structured_logs/README.md)
