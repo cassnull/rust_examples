@@ -36,3 +36,4 @@
 - [exercise_36](exercise_36/README.md)
 - [exercise_37](exercise_37/README.md)
 - [exercise_38](exercise_38/README.md)
+- [exercise_39](exercise_39/README.md)
