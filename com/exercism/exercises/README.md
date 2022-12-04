@@ -2,3 +2,4 @@
 - [lucians_luscious_lasagna](lucians_luscious_lasagna/README.md)
 - [assembly_line](assembly_line/README.md)
 - [semi_structured_logs](semi_structured_logs/README.md)
+- [resistor_color](resistor_color/README.md)
