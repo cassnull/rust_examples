@@ -1,1 +1,2 @@
 - [log_debug_message_to_console](log_debug_message_to_console/README.md)
+- [log_error_message_to_console](log_error_message_to_console/README.md)
