@@ -2,3 +2,4 @@
 - [log_error_message_to_console](log_error_message_to_console/README.md)
 - [log_to_stdout_instead_of_stderr](log_to_stdout_instead_of_stderr/README.md)
 - [log_messages_with_custom_logger](log_messages_with_custom_logger/README.md)
+- [log_to_unix_syslog](log_to_unix_syslog/README.md)
