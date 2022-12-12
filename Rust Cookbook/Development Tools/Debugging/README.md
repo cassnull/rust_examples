@@ -1,1 +1,2 @@
 - [Log Messages](Log%20Messages/README.md)
+- [Configure Logging](Configure%20Logging/README.md)
