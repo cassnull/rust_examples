@@ -1,1 +1,2 @@
 - [enable_log_levels_per_module](enable_log_levels_per_module/README.md)
+- [use_custom_environment_variable_to_set_up_logging](use_custom_environment_variable_to_set_up_logging/README.md)
