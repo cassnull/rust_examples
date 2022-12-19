@@ -1,3 +1,4 @@
 - [parse_and_increment_version_string](parse_and_increment_version_string/README.md)
 - [parse_complex_version_string](parse_complex_version_string/README.md)
 - [check_if_given_version_is_pre_release](check_if_given_version_is_pre_release/README.md)
+- [find_latest_version_satisfying_given_range](find_latest_version_satisfying_given_range/README.md)
