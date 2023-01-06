@@ -7,3 +7,4 @@
 - [Algorithm](Algorithm/README.md)
 - [Games](Games/README.md)
 - [Utils](Utils/README.md)
+- [T. McNamara](T.%20McNamara/README.md)
