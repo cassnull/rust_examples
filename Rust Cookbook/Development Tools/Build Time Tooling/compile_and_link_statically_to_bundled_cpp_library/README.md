@@ -1,1 +1,0 @@
-- [compile_and_link_statically_to_bundled_c_library](compile_and_link_statically_to_bundled_c_library/README.md)
