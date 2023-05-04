@@ -7,4 +7,5 @@
 - [Database](Database/README.md)
 - [Date and Time](Date%20and%20Time/README.md)
 - [Development Tools](Development%20Tools/README.md)
+- [Encoding](Encoding/README.md)
 - [Web Programming](Web%20Programming/README.md)
