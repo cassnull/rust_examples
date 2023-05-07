@@ -1,3 +1,4 @@
 - [percent_encode_string](percent_encode_string/README.md)
 - [encode_string_as_application_x_www_form_urlencoded](encode_string_as_application_x_www_form_urlencoded/README.md)
 - [encode_and_decode_hex](encode_and_decode_hex/README.md)
+- [encode_and_decode_base64](encode_and_decode_base64/README.md)
