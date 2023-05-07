@@ -1,0 +1,9 @@
+[package]
+name = "encode_string_as_application_x_www_form_urlencoded"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+url = "2.3.1"
