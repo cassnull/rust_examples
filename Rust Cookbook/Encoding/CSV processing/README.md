@@ -1,2 +1,3 @@
 - [read_csv_records](read_csv_records/README.md)
 - [read_csv_records_with_different_delimiter](read_csv_records_with_different_delimiter/README.md)
+- [filter_csv_records_matching_predicate](filter_csv_records_matching_predicate/README.md)
