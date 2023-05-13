@@ -1,2 +1,3 @@
 - [Character Sets](Character%20Sets/README.md)
 - [CSV processing](CSV%20processing/README.md)
+- [Structured Data](Structured%20Data/README.md)
