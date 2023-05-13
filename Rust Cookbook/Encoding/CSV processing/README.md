@@ -4,3 +4,4 @@
 - [handle_invalid_csv_data_with_serde](handle_invalid_csv_data_with_serde/README.md)
 - [serialize_records_to_csv](serialize_records_to_csv/README.md)
 - [serialize_records_to_csv_using_serde](serialize_records_to_csv_using_serde/README.md)
+- [transform_csv_column](transform_csv_column/README.md)
