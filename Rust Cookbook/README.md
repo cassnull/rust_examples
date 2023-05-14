@@ -9,3 +9,4 @@
 - [Development Tools](Development%20Tools/README.md)
 - [Encoding](Encoding/README.md)
 - [Web Programming](Web%20Programming/README.md)
+- [Error Handling](Error%20Handling/README.md)
