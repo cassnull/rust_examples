@@ -2,3 +2,4 @@
 - [find_loops_for_given_path](find_loops_for_given_path/README.md)
 - [recursively_find_duplicate_file_names](recursively_find_duplicate_file_names/README.md)
 - [recursively_find_all_files_with_given_predicate](recursively_find_all_files_with_given_predicate/README.md)
+- [traverse_directories_while_skipping_dotfiles](traverse_directories_while_skipping_dotfiles/README.md)
