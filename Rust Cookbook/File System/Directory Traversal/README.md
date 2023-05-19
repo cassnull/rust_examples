@@ -5,3 +5,4 @@
 - [traverse_directories_while_skipping_dotfiles](traverse_directories_while_skipping_dotfiles/README.md)
 - [recursively_calculate_file_sizes_at_given_depth](recursively_calculate_file_sizes_at_given_depth/README.md)
 - [find_all_png_files_recursively](find_all_png_files_recursively/README.md)
+- [find_all_files_with_given_pattern_ignoring_filename_case](find_all_files_with_given_pattern_ignoring_filename_case/README.md)
