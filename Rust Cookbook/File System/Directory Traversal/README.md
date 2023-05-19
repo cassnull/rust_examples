@@ -3,3 +3,4 @@
 - [recursively_find_duplicate_file_names](recursively_find_duplicate_file_names/README.md)
 - [recursively_find_all_files_with_given_predicate](recursively_find_all_files_with_given_predicate/README.md)
 - [traverse_directories_while_skipping_dotfiles](traverse_directories_while_skipping_dotfiles/README.md)
+- [recursively_calculate_file_sizes_at_given_depth](recursively_calculate_file_sizes_at_given_depth/README.md)
