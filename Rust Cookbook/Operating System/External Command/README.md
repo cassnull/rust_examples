@@ -1,3 +1,4 @@
 - [run_external_command_and_process_stdout](run_external_command_and_process_stdout/README.md)
 - [run_external_command_passing_it_stdin_and_check_for_error_code](run_external_command_passing_it_stdin_and_check_for_error_code/README.md)
 - [run_piped_external_commands](run_piped_external_commands/README.md)
+- [redirect_both_stdout_and_stderr_of_child_process_to_same_file](redirect_both_stdout_and_stderr_of_child_process_to_same_file/README.md)
