@@ -22,8 +22,7 @@ fn main() -> Result<()> {
     let output = Command::new("git")
         .arg("log")
         .arg("--oneline")
-        .arg("-n")
-        .arg(number.to_string())
+        .args(&["-n", number.to_string().as_str()])
         .output()?;
 
     if !output.status.success() {
