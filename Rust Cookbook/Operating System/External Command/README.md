@@ -3,3 +3,4 @@
 - [run_piped_external_commands](run_piped_external_commands/README.md)
 - [redirect_both_stdout_and_stderr_of_child_process_to_same_file](redirect_both_stdout_and_stderr_of_child_process_to_same_file/README.md)
 - [continuously_process_child_process_outputs](continuously_process_child_process_outputs/README.md)
+- [read_environment_variable](read_environment_variable/README.md)
