@@ -2,3 +2,4 @@
 - [multiplying_matrices](multiplying_matrices/README.md)
 - [multiply_scalar_with_vector_with_matrix](multiply_scalar_with_vector_with_matrix/README.md)
 - [vector_comparison](vector_comparison/README.md)
+- [vector_norm](vector_norm/README.md)
