@@ -4,3 +4,4 @@
 - [vector_comparison](vector_comparison/README.md)
 - [vector_norm](vector_norm/README.md)
 - [invert_matrix](invert_matrix/README.md)
+- [deserialize_serialize_matrix](deserialize_serialize_matrix/README.md)
