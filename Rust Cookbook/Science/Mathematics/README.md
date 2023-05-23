@@ -1,1 +1,2 @@
 - [Linear Algebra](Linear%20Algebra/README.md)
+- [Trigonometry](Trigonometry/README.md)
