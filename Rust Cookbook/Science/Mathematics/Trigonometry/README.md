@@ -1,1 +1,2 @@
 - [calculating_side_length_of_triangle](calculating_side_length_of_triangle/README.md)
+- [verifying_tan_is_equal_to_sin_divided_by_cos](verifying_tan_is_equal_to_sin_divided_by_cos/README.md)
