@@ -1,2 +1,3 @@
 - [creating_complex_numbers](creating_complex_numbers/README.md)
 - [adding_complex_numbers](adding_complex_numbers/README.md)
+- [mathematical_functions](mathematical_functions/README.md)
