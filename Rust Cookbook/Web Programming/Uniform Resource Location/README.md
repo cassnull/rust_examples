@@ -1,2 +1,3 @@
 - [parse_url_from_string_to_url_type](parse_url_from_string_to_url_type/README.md)
 - [create_base_url_by_removing_path_segments](create_base_url_by_removing_path_segments/README.md)
+- [create_new_urls_from_base_url](create_new_urls_from_base_url/README.md)
