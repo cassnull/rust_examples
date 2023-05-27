@@ -1,1 +1,2 @@
 - [measures_of_central_tendency_using_sum_and_len](measures_of_central_tendency_using_sum_and_len/README.md)
+- [measures_of_central_tendency_using_quickselect_algorithm](measures_of_central_tendency_using_quickselect_algorithm/README.md)
