@@ -2,3 +2,4 @@
 - [create_base_url_by_removing_path_segments](create_base_url_by_removing_path_segments/README.md)
 - [create_new_urls_from_base_url](create_new_urls_from_base_url/README.md)
 - [extract_url_origin_scheme_host_port](extract_url_origin_scheme_host_port/README.md)
+- [remove_fragment_identifiers_and_query_pairs_from_url](remove_fragment_identifiers_and_query_pairs_from_url/README.md)
