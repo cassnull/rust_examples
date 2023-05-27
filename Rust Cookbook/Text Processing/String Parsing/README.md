@@ -1,1 +1,3 @@
 - [collect_unicode_graphemes](collect_unicode_graphemes/README.md)
+- [implement_fromstr_trait_for_custom_struct](implement_fromstr_trait_for_custom_struct/README.md)
+- [implement_fromstr_trait_for_custom_struct](implement_fromstr_trait_for_custom_struct/README.md)
