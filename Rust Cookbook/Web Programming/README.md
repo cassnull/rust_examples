@@ -1,3 +1,4 @@
 - [Extracting Links](Extracting%20Links/README.md)
 - [Uniform Resource Location](Uniform%20Resource%20Location/README.md)
+- [Media Types](Media%20Types/README.md)
 - [gRPC](gRPC/README.md)
