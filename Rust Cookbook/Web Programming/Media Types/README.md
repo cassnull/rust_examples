@@ -1,1 +1,2 @@
 - [get_mime_type_from_string](get_mime_type_from_string/README.md)
+- [get_mime_type_from_filename](get_mime_type_from_filename/README.md)
