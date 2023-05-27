@@ -8,7 +8,6 @@
 - [Date and Time](Date%20and%20Time/README.md)
 - [Development Tools](Development%20Tools/README.md)
 - [Encoding](Encoding/README.md)
-- [Web Programming](Web%20Programming/README.md)
 - [Error Handling](Error%20Handling/README.md)
 - [File System](File%20System/README.md)
 - [Hardware Support](Hardware%20Support/README.md)
@@ -16,3 +15,5 @@
 - [Network](Network/README.md)
 - [Operating System](Operating%20System/README.md)
 - [Science](Science/README.md)
+- [Text Processing](Text%20Processing/README.md)
+- [Web Programming](Web%20Programming/README.md)
