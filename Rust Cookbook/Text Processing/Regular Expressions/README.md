@@ -2,3 +2,4 @@
 - [extract_list_of_unique_hashtags_from_text](extract_list_of_unique_hashtags_from_text/README.md)
 - [extract_phone_numbers_from_text](extract_phone_numbers_from_text/README.md)
 - [filter_log_file_by_matching_multiple_regular_expressions](filter_log_file_by_matching_multiple_regular_expressions/README.md)
+- [replace_all_occurrences_of_one_text_pattern_with_another_pattern](replace_all_occurrences_of_one_text_pattern_with_another_pattern/README.md)
