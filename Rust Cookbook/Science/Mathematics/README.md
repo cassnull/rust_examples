@@ -2,3 +2,4 @@
 - [Trigonometry](Trigonometry/README.md)
 - [Complex Numbers](Complex%20Numbers/README.md)
 - [Statistics](Statistics/README.md)
+- [Miscellaneous](Miscellaneous/README.md)
