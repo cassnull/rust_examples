@@ -1,0 +1,9 @@
+[package]
+name = "parse_url_from_string_to_url_type"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+url = "2.3.1"
