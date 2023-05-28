@@ -1,3 +1,4 @@
 - [query_github_api](query_github_api/README.md)
 - [check_if_api_resource_exists](check_if_api_resource_exists/README.md)
 - [create_and_delete_gist_with_github_api](create_and_delete_gist_with_github_api/README.md)
+- [consume_paginated_restful_api](consume_paginated_restful_api/README.md)
