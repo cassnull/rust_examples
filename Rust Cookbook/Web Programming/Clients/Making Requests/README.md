@@ -1,2 +1,3 @@
 - [make_http_get_request](make_http_get_request/README.md)
 - [make_async_http_get_request](make_async_http_get_request/README.md)
+- [create_and_delete_gist_with_github_api](create_and_delete_gist_with_github_api/README.md)
