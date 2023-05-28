@@ -1,2 +1,3 @@
 - [download_file_to_temporary_directory](download_file_to_temporary_directory/README.md)
 - [post_file_to_paste_rs](post_file_to_paste_rs/README.md)
+- [make_partial_download_with_http_range_headers](make_partial_download_with_http_range_headers/README.md)
